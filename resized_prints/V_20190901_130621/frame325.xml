@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>V_20190901_130621</folder>
+	<filename>frame325.jpg</filename>
+	<path>D:\GitHub\policam\resized_prints\V_20190901_130621\frame325.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>poli</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>178</ymin>
+			<xmax>110</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>
